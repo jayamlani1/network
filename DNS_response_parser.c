@@ -1,6 +1,4 @@
 /*
- * The answers are matching correctly. But the spaces are the problem because of which the 
- * test cases are failing.
  * I was looking at RFC https://datatracker.ietf.org/doc/html/rfc1035 . Which does not 
  * seem to have AAAA record type. So I have added that in default case.
  */
